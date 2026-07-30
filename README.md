@@ -1,5 +1,12 @@
 # ☕ Ember & Oak - Telegram Order Bot
 
+![Python](https://img.shields.io/badge/Python-3.11+-3776AB?logo=python&logoColor=white)
+![aiogram](https://img.shields.io/badge/aiogram-3.x-2CA5E0?logo=telegram&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-aiosqlite-003B57?logo=sqlite&logoColor=white)
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+
+> 🤖 **Live demo:** [@EmberOakOrders_bot](https://t.me/EmberOakOrders_bot) — running 24/7 on a VPS.
+
 A Telegram bot for the fictional coffee shop **Ember & Oak** that lets customers
 browse a menu, build a cart and place an order, while notifying an administrator
 who can accept or reject each order in one tap.
